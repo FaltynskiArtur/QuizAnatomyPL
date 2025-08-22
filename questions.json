@@ -1,0 +1,2392 @@
+[
+  {
+    "question": "W stawie kolanowym jako stawie zawiasowym zmodyfikowanym wykonujemy ruchy:",
+    "answers": [
+      { "text": "odwodzenia, przywodzenia", "correct": false },
+      { "text": "przeciwstawiania i odprowadzania", "correct": false },
+      { "text": "rotacji wewnętrznej i zewnętrznej", "correct": false },
+      { "text": "zginania i prostowania", "correct": false },
+      { "text": "prawidłowe c i d", "correct": true }
+    ]
+  },
+  {
+    "question": "Okostna:",
+    "answers": [
+      {
+        "text": "jest to błona włóknista pokrywająca tylko powierzchnie stawowe",
+        "correct": false
+      },
+      {
+        "text": "jest to błona włóknista występująca na powierzchni zewnętrznej kości (ale nie na powierzchni stawowej - jest tam chrząstka)",
+        "correct": true
+      },
+      {
+        "text": "jest to błona włóknista występująca na powierzchni zewnętrznej kości ina powierzchniach stawowych",
+        "correct": false
+      },
+      {
+        "text": "jest to błona włóknista wyścielająca jamę szpikową",
+        "correct": false
+      },
+      { "text": "nie jest", "correct": false }
+    ]
+  },
+  {
+    "question": "W rdzeniu kręgowym wyróżnia się następującą ilość segmentów lędźwiowych:",
+    "answers": [
+      { "text": "5", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "9", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "Zgrubienie lędźwiowe rdzenia kręgowego zlokalizowane jest na poziomie:",
+    "answers": [
+      { "text": "trzonów kręgów Th7-L2", "correct": false },
+      { "text": "trzonów kręgów L2-L4", "correct": false },
+      { "text": "trzonów kręgów Th10-L1", "correct": false },
+      { "text": "segmentów rdzenia kręgowego L1-L3", "correct": true },
+      { "text": "segmentów rdzenia kręgowego C3-Th1", "correct": false }
+    ]
+  },
+  {
+    "question": "Dołki żebrowe występują na kręgach:",
+    "answers": [
+      { "text": "szyjnych", "correct": false },
+      { "text": "piersiowych", "correct": true },
+      { "text": "lędźwiowych", "correct": false },
+      { "text": "krzyżowych", "correct": false },
+      { "text": "nie ma takiej struktury", "correct": false }
+    ]
+  },
+  {
+    "question": "Fizjologiczna krzywizna kręgosłupa wypukłością skierowana ku przodowi to:",
+    "answers": [
+      { "text": "lordoza", "correct": true },
+      { "text": "kifoza", "correct": false },
+      { "text": "skolioza", "correct": false },
+      { "text": "skrzywienie boczne", "correct": false },
+      { "text": "nie ma takiej krzywizny", "correct": false }
+    ]
+  },
+  {
+    "question": "Staw dolny skokowy tworzą następujące kości:",
+    "answers": [
+      { "text": "skokowa, piszczelowa, strzałkowa", "correct": false },
+      { "text": "skokowa, piętowa, piszczelowa", "correct": false },
+      { "text": "skokowa, piętowa, łódkowata", "correct": true },
+      { "text": "skokowa, piętowa, łódeczkowata", "correct": false },
+      { "text": "skokowa, piętowa", "correct": false }
+    ]
+  },
+  {
+    "question": "Oś strzałkowa i pionowa wyznaczają płaszczyznę:",
+    "answers": [
+      { "text": "czołową", "correct": true },
+      { "text": "poprzeczną", "correct": false },
+      { "text": "strzałkową", "correct": false },
+      { "text": "skośną", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Gruczoły zlokalizowane w skórze właściwej, szczególnie w skórze owłosionej, nie występują w skórze dłoni i stóp to gruczoły:",
+    "answers": [
+      { "text": "łojowe", "correct": true },
+      { "text": "potowe", "correct": false },
+      { "text": "apokrynowe", "correct": false },
+      { "text": "śluzowe", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Komórki leżące w zewnętrznej warstwie kości, których zadaniem jest tworzenie macierzy poprzez syntezę kolagenu i innych białek to:",
+    "answers": [
+      { "text": "osteocyty", "correct": false },
+      { "text": "osteoblasty", "correct": true },
+      { "text": "osteoklasty", "correct": false },
+      { "text": "preosteoblasty", "correct": false },
+      { "text": "osteocyty", "correct": false }
+    ]
+  },
+  {
+    "question": "Proces przekształcania chrząstki w kość, prowadzący do jego wzrostu na długość to:",
+    "answers": [
+      { "text": "kostnienie na podłożu kostnym", "correct": false },
+      { "text": "kostnienie na podłożu błoniastym", "correct": false },
+      { "text": "kostnienie na podłożu chrzęstnym", "correct": true },
+      { "text": "kostnienie na podłożu śródkostnym", "correct": false },
+      { "text": "kostnienie na podłożu śródbłoniastym", "correct": false }
+    ]
+  },
+  {
+    "question": "Do kości twarzoczaszki zaliczymy kość:",
+    "answers": [
+      { "text": "czołową", "correct": false },
+      { "text": "potyliczną", "correct": false },
+      { "text": "sitową", "correct": false },
+      { "text": "szczękową", "correct": true },
+      { "text": "skroniową", "correct": false }
+    ]
+  },
+  {
+    "question": "W stawie kolanowym jako stawie zawiasowym zmodyfikowanym wykonujemy ruchy:",
+    "answers": [
+      { "text": "odwodzenia, przywodzenia", "correct": false },
+      { "text": "przeciwstawiania i odprowadzania", "correct": false },
+      { "text": "rotacji wewnętrznej i zewnętrznej", "correct": false },
+      { "text": "zginania i prostowania", "correct": false },
+      { "text": "prawidłowe c i d", "correct": true }
+    ]
+  },
+  {
+    "question": "Okostna:",
+    "answers": [
+      {
+        "text": "jest to błona włóknista pokrywająca tylko powierzchnie stawowe",
+        "correct": false
+      },
+      {
+        "text": "jest to błona włóknista występująca na powierzchni zewnętrznej kości (ale nie na powierzchni stawowej - jest tam chrząstka)",
+        "correct": true
+      },
+      {
+        "text": "jest to błona włóknista występująca na powierzchni zewnętrznej kości ina powierzchniach stawowych",
+        "correct": false
+      },
+      {
+        "text": "jest to błona włóknista wyścielająca jamę szpikową",
+        "correct": false
+      },
+      { "text": "nie jest", "correct": false }
+    ]
+  },
+  {
+    "question": "W rdzeniu kręgowym wyróżnia się następującą ilość segmentów lędźwiowych:",
+    "answers": [
+      { "text": "5", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "8", "correct": false },
+      { "text": "9", "correct": false },
+      { "text": "12", "correct": false }
+    ]
+  },
+  {
+    "question": "Zgrubienie lędźwiowe rdzenia kręgowego zlokalizowane jest na poziomie:",
+    "answers": [
+      { "text": "trzonów kręgów Th7-L2", "correct": false },
+      { "text": "trzonów kręgów L2-L4", "correct": false },
+      { "text": "trzonów kręgów Th10-L1", "correct": false },
+      { "text": "segmentów rdzenia kręgowego L1-L3", "correct": true },
+      { "text": "segmentów rdzenia kręgowego C3-Th1", "correct": false }
+    ]
+  },
+  {
+    "question": "Dołki żebrowe występują na kręgach:",
+    "answers": [
+      { "text": "szyjnych", "correct": false },
+      { "text": "piersiowych", "correct": true },
+      { "text": "lędźwiowych", "correct": false },
+      { "text": "krzyżowych", "correct": false },
+      { "text": "nie ma takiej struktury", "correct": false }
+    ]
+  },
+  {
+    "question": "Fizjologiczna krzywizna kręgosłupa wypukłością skierowana ku przodowi to:",
+    "answers": [
+      { "text": "lordoza", "correct": true },
+      { "text": "kifoza", "correct": false },
+      { "text": "skolioza", "correct": false },
+      { "text": "skrzywienie boczne", "correct": false },
+      { "text": "nie ma takiej krzywizny", "correct": false }
+    ]
+  },
+  {
+    "question": "Staw dolny skokowy tworzą następujące kości:",
+    "answers": [
+      { "text": "skokowa, piszczelowa, strzałkowa", "correct": false },
+      { "text": "skokowa, piętowa, piszczelowa", "correct": false },
+      { "text": "skokowa, piętowa, łódkowata", "correct": true },
+      { "text": "skokowa, piętowa, łódeczkowata", "correct": false },
+      { "text": "skokowa, piętowa", "correct": false }
+    ]
+  },
+  {
+    "question": "Oś strzałkowa i pionowa wyznaczają płaszczyznę:",
+    "answers": [
+      { "text": "czołową", "correct": true },
+      { "text": "poprzeczną", "correct": false },
+      { "text": "strzałkową", "correct": false },
+      { "text": "skośną", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Gruczoły zlokalizowane w skórze właściwej, szczególnie w skórze owłosionej, nie występują w skórze dłoni i stóp to gruczoły:",
+    "answers": [
+      { "text": "łojowe", "correct": true },
+      { "text": "potowe", "correct": false },
+      { "text": "apokrynowe", "correct": false },
+      { "text": "śluzowe", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Komórki leżące w zewnętrznej warstwie kości, których zadaniem jest tworzenie macierzy poprzez syntezę kolagenu i innych białek to:",
+    "answers": [
+      { "text": "osteocyty", "correct": false },
+      { "text": "osteoblasty", "correct": true },
+      { "text": "osteoklasty", "correct": false },
+      { "text": "preosteoblasty", "correct": false },
+      { "text": "osteocyty", "correct": false }
+    ]
+  },
+  {
+    "question": "Proces przekształcania chrząstki w kość, prowadzący do jego wzrostu na długość to:",
+    "answers": [
+      { "text": "kostnienie na podłożu kostnym", "correct": false },
+      { "text": "kostnienie na podłożu błoniastym", "correct": false },
+      { "text": "kostnienie na podłożu chrzęstnym", "correct": true },
+      { "text": "kostnienie na podłożu śródkostnym", "correct": false },
+      { "text": "kostnienie na podłożu śródbłoniastym", "correct": false }
+    ]
+  },
+  {
+    "question": "Do kości twarzoczaszki zaliczymy kość:",
+    "answers": [
+      { "text": "czołową", "correct": false },
+      { "text": "potyliczną", "correct": false },
+      { "text": "sitową", "correct": false },
+      { "text": "szczękową", "correct": true },
+      { "text": "skroniową", "correct": false }
+    ]
+  },
+  {
+    "question": "Zdolność mięśnia podczas której mięsień nie zmienia napięcia tylko jego długość to:",
+    "answers": [
+      { "text": "rozciągliwość", "correct": false },
+      { "text": "pobudliwość", "correct": false },
+      { "text": "kurczliwość", "correct": false },
+      { "text": "skurcz izotoniczny", "correct": true },
+      { "text": "skurcz izometryczny", "correct": false }
+    ]
+  },
+  {
+    "question": "W stosunku do płaszczyzny strzałkowej wyróżniamy kierunek:",
+    "answers": [
+      { "text": "przedni, tylny", "correct": true },
+      { "text": "górny, dolny", "correct": false },
+      { "text": "boczny, przyśrodkowy", "correct": false },
+      { "text": "powierzchowny i głęboki", "correct": false },
+      { "text": "nie ma takiej płaszczyzny", "correct": false }
+    ]
+  },
+  {
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "text": "staw nadgarstkowo -śródręczny kciuka jest stawem siodełkowym",
+        "correct": false
+      },
+      {
+        "text": "w stawie siodełkowym wykonujemy ruchy przeciwstawiania i odprowadzania",
+        "correct": false
+      },
+      { "text": "staw ramienny jest stawem kulistym wolnym", "correct": false },
+      {
+        "text": "kręgi piersiowe posiadają wyrostki poprzeczne",
+        "correct": false
+      },
+      {
+        "text": "pierwszy krąg szyjny to inaczej krąg obrotowy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pierwsze żebro łączy się z mostkiem za pomocą:",
+    "answers": [
+      { "text": "chrząstkozrostu", "correct": true },
+      { "text": "stawu", "correct": false },
+      { "text": "więzozrostu", "correct": false },
+      { "text": "kościozrostu", "correct": false },
+      { "text": "wklinowania", "correct": false }
+    ]
+  },
+  {
+    "question": "Staw krzyżowo-biodrowy jest przykładem stawu:",
+    "answers": [
+      { "text": "obrotowego", "correct": false },
+      { "text": "zawiasowego", "correct": false },
+      { "text": "kulistego wolnego", "correct": false },
+      { "text": "płaskiego", "correct": true },
+      { "text": "kłykciowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Końce bliższe obu kości stawu ramiennego prawidłowo łączą się ze sobą za pomocą:",
+    "answers": [
+      { "text": "więzozrostu", "correct": true },
+      { "text": "stawu", "correct": false },
+      { "text": "chrząstkozrostu", "correct": false },
+      { "text": "kościozrostu", "correct": false },
+      { "text": "nietypowego połączenia", "correct": false }
+    ]
+  },
+  {
+    "question": "W stawie kulistym wolnym wykonujemy następujące ruchy z wyjątkiem:",
+    "answers": [
+      { "text": "zginanie, prostowanie", "correct": false },
+      { "text": "odwodzenia, przywodzenia", "correct": false },
+      { "text": "przeciwstawianie, odprowadzanie", "correct": true },
+      { "text": "rotacja zewnętrzna i wewnętrzna", "correct": false },
+      { "text": "obwodzenie", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład kości nadgarstka nie wchodzi kość:",
+    "answers": [
+      { "text": "łódeczkowata", "correct": false },
+      { "text": "księżycowata", "correct": false },
+      { "text": "grochowata", "correct": false },
+      { "text": "sześcienna", "correct": false },
+      { "text": "czworoboczna większa", "correct": true }
+    ]
+  },
+  {
+    "question": "Wskaż która z niżej wymienionych kości nie tworzy stawu skokowego górnego:",
+    "answers": [
+      { "text": "piszczelowa", "correct": false },
+      { "text": "strzałkowa", "correct": false },
+      { "text": "skokowa", "correct": false },
+      { "text": "piętowa", "correct": true },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Do niestałych elementów stawu należą wszystkie z wyjątkiem:",
+    "answers": [
+      { "text": "obrąbki", "correct": false },
+      { "text": "więzadła", "correct": false },
+      { "text": "kaletki", "correct": false },
+      { "text": "powierzchnie stawowe", "correct": true },
+      { "text": "łąkotki", "correct": false }
+    ]
+  },
+  {
+    "question": "Rzepka jest elementem składowym stawu:",
+    "answers": [
+      { "text": "skokowego", "correct": false },
+      { "text": "kolanowego", "correct": true },
+      { "text": "łokciowego", "correct": false },
+      { "text": "ramiennego", "correct": false },
+      { "text": "promieniowo-nadgarstkowego", "correct": false }
+    ]
+  },
+  {
+    "question": "W stawie łokciowym nie wykonujemy ruchu:",
+    "answers": [
+      { "text": "zginania", "correct": false },
+      { "text": "prostowania", "correct": false },
+      { "text": "odwracania", "correct": false },
+      { "text": "nawracania", "correct": false },
+      { "text": "odwodzenia", "correct": true }
+    ]
+  },
+  {
+    "question": "Wskaż zdanie fałszywe:",
+    "answers": [
+      {
+        "text": "staw śródręczno -paliczkowy kciuka jest stawem siodełkowym",
+        "correct": false
+      },
+      {
+        "text": "w stawie siodełkowym wykonujemy ruchy przeciwstawiania i odprowadzania",
+        "correct": false
+      },
+      {
+        "text": "w stawie siodełkowym wykonujemy ruchy zginania i prostowania",
+        "correct": false
+      },
+      { "text": "staw ramienny jest stawem kulistym wolnym", "correct": false },
+      { "text": "żyła odpiszczelowa uchodzi do żyły udowej", "correct": true }
+    ]
+  },
+  {
+    "question": "Staw biodrowy jest przykładem stawu:",
+    "answers": [
+      { "text": "zawiasowego", "correct": false },
+      { "text": "kulistego wolnego", "correct": false },
+      { "text": "kulistego panewkowego", "correct": true },
+      { "text": "obrotowego", "correct": false },
+      { "text": "kłykciowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Łuk żebrowy tworzą żebra:",
+    "answers": [
+      { "text": "XII do VII", "correct": false },
+      { "text": "XII do V", "correct": false },
+      { "text": "X do VII", "correct": true },
+      { "text": "X do VI", "correct": false },
+      { "text": "X do V", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład typowego kręgu nie wchodzi:",
+    "answers": [
+      { "text": "trzon kręgu", "correct": false },
+      { "text": "łuk kręgu", "correct": false },
+      { "text": "wyrostki poprzeczne", "correct": false },
+      { "text": "wyrostki żebrowe", "correct": true },
+      { "text": "wyrostki stawowe", "correct": false }
+    ]
+  },
+  {
+    "question": "Kość łokciowa nie bierze udziały w tworzeniu stawu:",
+    "answers": [
+      { "text": "łokciowego", "correct": false },
+      { "text": "stawu promieniowo-łokciowego bliższego", "correct": false },
+      { "text": "stawu promieniowo-łokciowego dalszego", "correct": false },
+      { "text": "ramiennego", "correct": true },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Przykładem stawu elipsoidalnego jest staw:",
+    "answers": [
+      { "text": "ramienny", "correct": false },
+      { "text": "biodrowy", "correct": false },
+      { "text": "krzyżowo-biodrowy", "correct": false },
+      { "text": "mostkowo-obojczykowy", "correct": false },
+      { "text": "promieniowo-nadgarstkowy", "correct": true }
+    ]
+  },
+  {
+    "question": "Oś poprzeczna i pionowa wyznacza płaszczyznę:",
+    "answers": [
+      { "text": "strzałkową", "correct": false },
+      { "text": "poprzeczną", "correct": true },
+      { "text": "czołową", "correct": false },
+      { "text": "skośną", "correct": false },
+      { "text": "pośrodkową", "correct": false }
+    ]
+  },
+  {
+    "question": "Do kości długich nie należy kość:",
+    "answers": [
+      { "text": "udowa", "correct": false },
+      { "text": "piszczelowa", "correct": false },
+      { "text": "ramienna", "correct": false },
+      { "text": "łopatka", "correct": true },
+      { "text": "łokciowa", "correct": false }
+    ]
+  },
+  {
+    "question": "Najtrudniej zbadać tętno na tętnicy:",
+    "answers": [
+      { "text": "promieniowej", "correct": false },
+      { "text": "łokciowej", "correct": false },
+      { "text": "udowej", "correct": false },
+      { "text": "podkolanowej", "correct": true },
+      { "text": "grzbietowej stopy", "correct": false }
+    ]
+  },
+  {
+    "question": "Fizjologiczna krzywizna kręgosłupa wypukłością skierowana ku tyłowi to:",
+    "answers": [
+      { "text": "skolioza", "correct": false },
+      { "text": "kyfoza", "correct": true },
+      { "text": "lordoza", "correct": false },
+      { "text": "hyperkyfoza", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "W obrębie kręgosłupa występują następujące typy połączeń:",
+    "answers": [
+      { "text": "więzozrosty", "correct": false },
+      { "text": "kościozrosty", "correct": false },
+      { "text": "stawy", "correct": false },
+      { "text": "chrząstkozrosty", "correct": false },
+      { "text": "wszystkie z powyższych", "correct": true }
+    ]
+  },
+  {
+    "question": "Żebra prawdziwe to:",
+    "answers": [
+      { "text": "żebra łączące się bezpośrednio z mostkiem", "correct": true },
+      {
+        "text": "żebra łączące się bezpośrednio z kręgosłupem",
+        "correct": false
+      },
+      { "text": "żebra, które tworzą łuk żebrowy", "correct": false },
+      { "text": "jest ich 12 par", "correct": false },
+      { "text": "to 5 dolnych par", "correct": false }
+    ]
+  },
+  {
+    "question": "W budowie typowego kręgu biorą udział:",
+    "answers": [
+      {
+        "text": "trzon, łuki kręgowe, wyrostki stawowe górne i dolne, wyrostek kolczysty, wyrostki poprzeczne",
+        "correct": true
+      },
+      {
+        "text": "trzon, łuk kręgowy, wyrostki stawowe górne i dolne, wyrostek kolczysty, wyrostki poprzeczne",
+        "correct": false
+      },
+      {
+        "text": "łuk przedni, łuk tylny, wyrostki stawowe górne i dolne, wyrostki poprzeczne, wyrostek kolczysty",
+        "correct": false
+      },
+      {
+        "text": "trzon, łuk, wyrostki stawowe przednie i tylne, wyrostki poprzeczne, wyrostek kolczysty",
+        "correct": false
+      },
+      {
+        "text": "trzon, łuk, wyrostki poprzeczne górne i dolne, wyrostki stawowe, wyrostek kolczysty",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W podziale topograficznym układu nerwowego w skład pnia mózgu nie wchodzi:",
+    "answers": [
+      { "text": "rdzeń przedłużony", "correct": false },
+      { "text": "tyłomózgowie", "correct": false },
+      { "text": "międzymózgowie", "correct": true },
+      { "text": "most", "correct": false },
+      { "text": "śródmózgowie", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące układu autonomicznego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "unerwia gruczoły", "correct": false },
+      { "text": "unerwia mięsnie gładkie", "correct": false },
+      {
+        "text": "prowadzi impulsy czuciowe z proprioreceptorów",
+        "correct": true
+      },
+      { "text": "unerwia mięsień sercowy", "correct": false },
+      {
+        "text": "prowadzi impulsy czuciowe z interoreceptorów",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zbiornik krańcowy zawiera wszystkie poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "płynu mózgowo-rdzeniowego", "correct": false },
+      { "text": "nic końcowej rdzenia kręgowego", "correct": false },
+      { "text": "stożka rdzeniowego", "correct": false },
+      { "text": "korzeni przednich nerwów rdzeniowych", "correct": false },
+      { "text": "korzeni tylnych nerwów rdzeniowych", "correct": true }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące nerwu rdzeniowego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "wyróżnia się 31 par nerwów rdzeniowych", "correct": false },
+      {
+        "text": "wyróżnia się 8 par nerwów rdzeniowych piersiowych",
+        "correct": false
+      },
+      {
+        "text": "nerw rdzeniowy leży w otworze międzykręgowym",
+        "correct": false
+      },
+      {
+        "text": "powstaje z połączenia korzenia przedniego i tylnego",
+        "correct": false
+      },
+      { "text": "nerw rdzeniowy ma długość ok. 1 cm", "correct": true }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące pnia współczulnego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "leży po obu stronach kręgosłupa", "correct": false },
+      {
+        "text": "jest utworzony przez zwoje przykręgowe połączone włóknami międzyzwojowymi",
+        "correct": false
+      },
+      { "text": "daje początek nerwom rdzeniowym", "correct": true },
+      {
+        "text": "zwoje przykręgowe mają charakter współczulny",
+        "correct": false
+      },
+      {
+        "text": "sięga od podstawy czaszki do kości guzicznej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące jądra pośrednio-przyśrodkowego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "jest ośrodkiem układu współczulnego", "correct": true },
+      { "text": "leży w segmencie rdzenia kręgowego S2-S4", "correct": false },
+      { "text": "jest parzystym jądrem", "correct": false },
+      {
+        "text": "neuryty komórek tego jądra unerwiają mięśniówkę gładką i gruczoły",
+        "correct": false
+      },
+      {
+        "text": "leży w istocie szarej pośredniej bocznej rdzenia kręgowego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Unerwienie ruchowe języka pochodzi od nerwu:",
+    "answers": [
+      { "text": "językowo-gardłowego", "correct": false },
+      { "text": "językowego", "correct": false },
+      { "text": "podjęzykowego", "correct": true },
+      { "text": "błędnego", "correct": false },
+      { "text": "żuchwowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Do składowych nefronu nie zalicza się:",
+    "answers": [
+      { "text": "kanalika proksymalnego", "correct": false },
+      { "text": "kanalika dystalnego", "correct": false },
+      { "text": "cewki zbiorczej", "correct": true },
+      { "text": "pętli Henlego", "correct": false },
+      { "text": "ciałka nerkowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Ciało kolankowate boczne jest:",
+    "answers": [
+      { "text": "podkorowym ośrodkiem smaku", "correct": false },
+      { "text": "podkorowym ośrodkiem wzroku", "correct": true },
+      { "text": "podkorowym ośrodkiem węchu", "correct": false },
+      { "text": "podkorowym ośrodkiem słuchu", "correct": false },
+      { "text": "podkorowym ośrodkiem czucia", "correct": false }
+    ]
+  },
+  {
+    "question": "Korowy ośrodek ruchu zlokalizowany jest:",
+    "answers": [
+      {
+        "text": "zakręcie zaśrodkowym i tylnej części płacika okołośrodkowego",
+        "correct": false
+      },
+      { "text": "zakręcie skroniowym górnym", "correct": false },
+      { "text": "w okolicy bruzdy ostrogowej", "correct": false },
+      {
+        "text": "zakręcie przedśrodkowym i przedniej części płacika okołośrodkowego",
+        "correct": true
+      },
+      { "text": "w łuku zakrętu hipokampa", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład koła tętniczego mózgu Willisa wchodzą wszystkie poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "tętnicy mózgu przedniej", "correct": false },
+      { "text": "tętnicy mózgu środkowej", "correct": true },
+      { "text": "tętnicy mózgu tylnej", "correct": false },
+      { "text": "tętnicy łączącej tylnej", "correct": false },
+      { "text": "tętnicy łączącej przedniej", "correct": false }
+    ]
+  },
+  {
+    "question": "W odruchu źrenicy na światło nie uczestniczą :",
+    "answers": [
+      { "text": "czopki i pręciki siatkówki", "correct": false },
+      { "text": "n. II", "correct": false },
+      { "text": "n. III", "correct": false },
+      { "text": "mięsień zwieracz źrenicy", "correct": false },
+      { "text": "mięsień okrężny oka", "correct": true }
+    ]
+  },
+  {
+    "question": "W skład błony włóknistej gałki ocznej wchodzą:",
+    "answers": [
+      { "text": "tęczówka, ciało rzęskowe", "correct": false },
+      { "text": "rogówka, twardówka", "correct": true },
+      { "text": "rogówka, twardówka, siatkówka", "correct": false },
+      { "text": "tęczówka, soczewka", "correct": false },
+      { "text": "rogówka, twardówka, soczewka", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład błędnika błoniastego wchodzą wszystkie powyższe z wyjątkiem:",
+    "answers": [
+      { "text": "woreczek", "correct": false },
+      { "text": "łagiewka", "correct": false },
+      { "text": "przewód ślimakowy", "correct": false },
+      { "text": "kanały półkoliste", "correct": false },
+      { "text": "przewód śródchłonkowy", "correct": true }
+    ]
+  },
+  {
+    "question": "Bodźce smakowe z języka przewodzi m.in. nerw:",
+    "answers": [
+      { "text": "trójdzielny i twarzowy", "correct": false },
+      { "text": "twarzowy i językowo-gardłowy", "correct": true },
+      { "text": "trójdzielny i podjęzykowy", "correct": false },
+      { "text": "twarzowy i dodatkowy", "correct": false },
+      { "text": "tylko podjęzykowy", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "drogi projekcyjne łączą odległe od siebie struktury OUN",
+        "correct": false
+      },
+      {
+        "text": "drogi projekcyjne zwykle ulegają skrzyżowaniu",
+        "correct": false
+      },
+      {
+        "text": "do dróg projekcyjnych zaliczają się drogi wstępujące i zstępujące",
+        "correct": false
+      },
+      {
+        "text": "wszystkie drogi kojarzeniowe są skrzyżowane",
+        "correct": true
+      },
+      {
+        "text": "drogi piramidowe przewodzą impulsy na ruchów dowolnych, w pełni świadomych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące nerwów rdzeniowych są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "wyróżnia się 31 par nerwów rdzeniowych", "correct": false },
+      {
+        "text": "wyróżnia się 8 par nerwów rdzeniowych szyjnych",
+        "correct": false
+      },
+      {
+        "text": "nerw rdzeniowy leży w otworze międzykręgowym",
+        "correct": false
+      },
+      {
+        "text": "powstaje z połączenia korzenia przedniego i tylnego",
+        "correct": false
+      },
+      { "text": "nerw rdzeniowy ma długość ok. 1 cm", "correct": true }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące móżdżku dawnego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "jest najstarszą częścią móżdżku", "correct": false },
+      { "text": "w jego skład wchodzi jądro wierzchu", "correct": false },
+      {
+        "text": "w jego skład wchodzi płat grudkowo-kłaczkowy",
+        "correct": false
+      },
+      { "text": "w jego skład wchodzi jądro zębate", "correct": true },
+      { "text": "jest ośrodkiem równowagi", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "ramieniem dośrodkowym odruchu źrenicznego jest nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu błędnego może spowodować chrypkę i zaburzenia połykania",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu dodatkowego może powodować opadanie ramienia",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu językowo-gardłowego może powodować zanik i zbaczanie wysuwanego języka",
+        "correct": true
+      },
+      {
+        "text": "ramieniem odśrodkowym odruchu źrenicznego jest nerw okoruchowy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące pnia współczulnego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "leży po obu stronach kręgosłupa", "correct": false },
+      {
+        "text": "jest utworzony przez zwoje przykręgowe połączone włóknami międzyzwojowymi",
+        "correct": false
+      },
+      { "text": "daje początek nerwom rdzeniowym", "correct": true },
+      {
+        "text": "zwoje przykręgowe mają charakter współczulny",
+        "correct": false
+      },
+      {
+        "text": "sięga od podstawy czaszki do kości guzicznej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące jądra pośrednio-przyśrodkowego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "jest ośrodkiem układu współczulnego", "correct": true },
+      { "text": "leży w segmencie rdzenia kręgowego S2-S4", "correct": false },
+      { "text": "jest parzystym jądrem", "correct": false },
+      {
+        "text": "neuryty komórek tego jądra unerwiają mięśniówkę gładką i gruczoły",
+        "correct": false
+      },
+      {
+        "text": "leży w istocie szarej pośredniej bocznej rdzenia kręgowego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Unerwienie ruchowe języka pochodzi od nerwu:",
+    "answers": [
+      { "text": "językowo-gardłowego", "correct": false },
+      { "text": "językowego", "correct": false },
+      { "text": "podjęzykowego", "correct": true },
+      { "text": "błędnego", "correct": false },
+      { "text": "żuchwowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Do składowych nefronu nie zalicza się:",
+    "answers": [
+      { "text": "kanalika proksymalnego", "correct": false },
+      { "text": "kanalika dystalnego", "correct": false },
+      { "text": "cewki zbiorczej", "correct": true },
+      { "text": "pętli Henlego", "correct": false },
+      { "text": "ciałka nerkowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Ciało kolankowate boczne jest:",
+    "answers": [
+      { "text": "podkorowym ośrodkiem smaku", "correct": false },
+      { "text": "podkorowym ośrodkiem wzroku", "correct": true },
+      { "text": "podkorowym ośrodkiem węchu", "correct": false },
+      { "text": "podkorowym ośrodkiem słuchu", "correct": false },
+      { "text": "podkorowym ośrodkiem czucia", "correct": false }
+    ]
+  },
+  {
+    "question": "Korowy ośrodek ruchu zlokalizowany jest:",
+    "answers": [
+      {
+        "text": "zakręcie zaśrodkowym i tylnej części płacika okołośrodkowego",
+        "correct": false
+      },
+      { "text": "zakręcie skroniowym górnym", "correct": false },
+      { "text": "w okolicy bruzdy ostrogowej", "correct": false },
+      {
+        "text": "zakręcie przedśrodkowym i przedniej części płacika okołośrodkowego",
+        "correct": true
+      },
+      { "text": "w łuku zakrętu hipokampa", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład koła tętniczego mózgu Willisa wchodzą wszystkie poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "tętnicy mózgu przedniej", "correct": false },
+      { "text": "tętnicy mózgu środkowej", "correct": true },
+      { "text": "tętnicy mózgu tylnej", "correct": false },
+      { "text": "tętnicy łączącej tylnej", "correct": false },
+      { "text": "tętnicy łączącej przedniej", "correct": false }
+    ]
+  },
+  {
+    "question": "W odruchu źrenicy na światło nie uczestniczą :",
+    "answers": [
+      { "text": "czopki i pręciki siatkówki", "correct": false },
+      { "text": "n. II", "correct": false },
+      { "text": "n. III", "correct": false },
+      { "text": "mięsień zwieracz źrenicy", "correct": false },
+      { "text": "mięsień okrężny oka", "correct": true }
+    ]
+  },
+  {
+    "question": "W skład błony włóknistej gałki ocznej wchodzą:",
+    "answers": [
+      { "text": "tęczówka, ciało rzęskowe", "correct": false },
+      { "text": "rogówka, twardówka", "correct": true },
+      { "text": "rogówka, twardówka, siatkówka", "correct": false },
+      { "text": "tęczówka, soczewka", "correct": false },
+      { "text": "rogówka, twardówka, soczewka", "correct": false }
+    ]
+  },
+  {
+    "question": "W skład błędnika błoniastego wchodzą wszystkie powyższe z wyjątkiem:",
+    "answers": [
+      { "text": "woreczek", "correct": false },
+      { "text": "łagiewka", "correct": false },
+      { "text": "przewód ślimakowy", "correct": false },
+      { "text": "kanały półkoliste", "correct": false },
+      { "text": "przewód śródchłonkowy", "correct": true }
+    ]
+  },
+  {
+    "question": "Bodźce smakowe z języka przewodzi m.in. nerw:",
+    "answers": [
+      { "text": "trójdzielny i twarzowy", "correct": false },
+      { "text": "twarzowy i językowo-gardłowy", "correct": true },
+      { "text": "trójdzielny i podjęzykowy", "correct": false },
+      { "text": "twarzowy i dodatkowy", "correct": false },
+      { "text": "tylko podjęzykowy", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "drogi projekcyjne łączą odległe od siebie struktury OUN",
+        "correct": false
+      },
+      {
+        "text": "drogi projekcyjne zwykle ulegają skrzyżowaniu",
+        "correct": false
+      },
+      {
+        "text": "do dróg projekcyjnych zaliczają się drogi wstępujące i zstępujące",
+        "correct": false
+      },
+      {
+        "text": "wszystkie drogi kojarzeniowe są skrzyżowane",
+        "correct": true
+      },
+      {
+        "text": "drogi piramidowe przewodzą impulsy na ruchów dowolnych, w pełni świadomych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące nerwów rdzeniowych są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "wyróżnia się 31 par nerwów rdzeniowych", "correct": false },
+      {
+        "text": "wyróżnia się 8 par nerwów rdzeniowych szyjnych",
+        "correct": false
+      },
+      {
+        "text": "nerw rdzeniowy leży w otworze międzykręgowym",
+        "correct": false
+      },
+      {
+        "text": "powstaje z połączenia korzenia przedniego i tylnego",
+        "correct": false
+      },
+      { "text": "nerw rdzeniowy ma długość ok. 1 cm", "correct": true }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące móżdżku dawnego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "jest najstarszą częścią móżdżku", "correct": false },
+      { "text": "w jego skład wchodzi jądro wierzchu", "correct": false },
+      {
+        "text": "w jego skład wchodzi płat grudkowo-kłaczkowy",
+        "correct": false
+      },
+      { "text": "w jego skład wchodzi jądro zębate", "correct": true },
+      { "text": "jest ośrodkiem równowagi", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "ramieniem dośrodkowym odruchu źrenicznego jest nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu błędnego może spowodować chrypkę i zaburzenia połykania",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu dodatkowego może powodować opadanie ramienia",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu językowo-gardłowego może powodować zanik i zbaczanie wysuwanego języka",
+        "correct": true
+      },
+      {
+        "text": "ramieniem odśrodkowym odruchu źrenicznego jest nerw okoruchowy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "ramieniem dośrodkowym odruchu źrenicznego jest nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu błędnego może spowodować chrypkę i zaburzenia połykania",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu dodatkowego może powodować opadanie ramienia",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu językowo-gardłowego może powodować zanik i zbaczanie wysuwanego języka",
+        "correct": true
+      },
+      {
+        "text": "ramieniem odśrodkowym odruchu źrenicznego jest nerw okoruchowy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Obwodowe porażenie nerwu twarzowego może prowadzić do wystąpienia wszystkich poniższych objawów z wyjątkiem:",
+    "answers": [
+      { "text": "braku czucia 2/3 przednich języka", "correct": true },
+      { "text": "brak wydzielania gruczołu łzowego", "correct": false },
+      {
+        "text": "brak wydzielania ślinianek: podżuchwowej i podjęzykowej",
+        "correct": false
+      },
+      { "text": "brak odruchu źrenicznego", "correct": false },
+      {
+        "text": "porażenie mięśni mimicznych i połowy twarzy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że w ośrodkowym porażeniu nerwu twarzowego:",
+    "answers": [
+      {
+        "text": "występuje porażenie mięśni mimicznych okolicy czoła",
+        "correct": true
+      },
+      {
+        "text": "występuje porażenie mięśni mimicznych okolicy oczodołu",
+        "correct": false
+      },
+      {
+        "text": "występuje pogłębienie fałdu nosowego- wargowego",
+        "correct": false
+      },
+      { "text": "występuje obniżenie kącika ust", "correct": false },
+      { "text": "uszkodzenie dotyczy DNM", "correct": false }
+    ]
+  },
+  {
+    "question": "W porażeniu którego nerwu występuje tzw. ręka opadająca:",
+    "answers": [
+      { "text": "n. łokciowego", "correct": false },
+      { "text": "n. pośrodkowego", "correct": false },
+      { "text": "n. promieniowego", "correct": true },
+      { "text": "n. pachowego", "correct": false },
+      { "text": "n. skórnego przyśrodkowego przedramienia", "correct": false }
+    ]
+  },
+  {
+    "question": "Nerw trójdzielny ma charakter:",
+    "answers": [
+      { "text": "wyłącznie ruchowy", "correct": false },
+      { "text": "wyłącznie czuciowy", "correct": false },
+      { "text": "mieszany: ruchowy i czuciowy", "correct": true },
+      { "text": "mieszany: ruchowy i przywspółczulny", "correct": false },
+      {
+        "text": "mieszany: ruchowy, czuciowy i przywspółczulny",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do objawów zespołu GNM należą poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "niedowładu/porażenia", "correct": false },
+      { "text": "odruchu Babińskiego", "correct": false },
+      { "text": "obniżonego napięcia mięśniowego", "correct": true },
+      { "text": "wygórowanych odruchów głębokich", "correct": false },
+      { "text": "spastycznego napięcia mięśni", "correct": false }
+    ]
+  },
+  {
+    "question": "Które z poniższych nerwów czaszkowych posiadają włókna przywspółczulne?",
+    "answers": [
+      { "text": "III, IV, VI", "correct": false },
+      { "text": "III,VII,IX,X", "correct": true },
+      { "text": "VII,IX,XI,XII", "correct": false },
+      { "text": "I,II,VIII", "correct": false },
+      { "text": "V,VII,IX,X", "correct": false }
+    ]
+  },
+  {
+    "question": "W moście zlokalizowane są jądra następujących nerwów czaszkowych z wyjątkiem:",
+    "answers": [
+      { "text": "n. IV", "correct": true },
+      { "text": "n. V", "correct": false },
+      { "text": "n. VI", "correct": false },
+      { "text": "n. VII", "correct": false },
+      { "text": "n. VIII", "correct": false }
+    ]
+  },
+  {
+    "question": "Dwunasty nerw czaszkowy:",
+    "answers": [
+      { "text": "nerw językowy", "correct": false },
+      { "text": "nerw podjęzykowy", "correct": true },
+      { "text": "nerw językowo-gardłowy", "correct": false },
+      { "text": "nerw dodatkowy", "correct": false },
+      { "text": "nerw błędny", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące płynu mózgowo-rdzeniowego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "zabezpiecza mózgowie przed urazami", "correct": false },
+      {
+        "text": "wytwarzany jest przez sploty naczyniówkowe komór mózgu",
+        "correct": false
+      },
+      {
+        "text": "jest resorbowany (ok. 70%) do naczyń żylnych opony miękkiej",
+        "correct": false
+      },
+      { "text": "dzienna produkcja: 55 ml", "correct": true },
+      { "text": "z komory trzeciej do czwartej", "correct": false }
+    ]
+  },
+  {
+    "question": "Do gałęzi nerwu rdzeniowego nie zaliczamy:",
+    "answers": [
+      { "text": "gałęzi przedniej", "correct": false },
+      { "text": "gałęzi tylnej", "correct": false },
+      { "text": "gałęzi łącznej białej", "correct": false },
+      { "text": "gałęzi rdzeniowej", "correct": true },
+      { "text": "wszystkie odpowiedzi błędne", "correct": false }
+    ]
+  },
+  {
+    "question": "Wodociąg mózgu:",
+    "answers": [
+      { "text": "łączy komory boczne i komorę IV", "correct": false },
+      { "text": "łączy komorę boczną i komorę III", "correct": true },
+      { "text": "leży w międzymózgowiu", "correct": false },
+      {
+        "text": "ma bezpośrednią komunikację z przestrzenią podpajęczynówkową",
+        "correct": false
+      },
+      { "text": "leży w śródmózgowiu", "correct": false }
+    ]
+  },
+  {
+    "question": "Przestrzeń podpajęczynówkowa:",
+    "answers": [
+      { "text": "jest przestrzenią potencjalną", "correct": false },
+      {
+        "text": "od wewnątrz ograniczona jest przez oponę pajęczą",
+        "correct": true
+      },
+      {
+        "text": "ograniczoną jest przez blaszkę wewnętrzną opony twardej",
+        "correct": false
+      },
+      {
+        "text": "istnieje tylko wtedy, kiedy zawiera krwiak podpajęczynówkowy",
+        "correct": false
+      },
+      {
+        "text": "jej zewnętrzne ograniczenie stanowi opona pajęcza",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Drogi piramidowe:",
+    "answers": [
+      {
+        "text": "krzyżują się wyłącznie w skrzyżowaniu piramid",
+        "correct": false
+      },
+      { "text": "są drogami zstępującymi", "correct": true },
+      {
+        "text": "rozpoczynają się w korze płata ciemieniowego",
+        "correct": false
+      },
+      {
+        "text": "przewodzą impulsy z receptorów leżących w ścięgnach mięśni",
+        "correct": false
+      },
+      { "text": "przechodzą przez wzgórze", "correct": false }
+    ]
+  },
+  {
+    "question": "Ogon koński tworzą:",
+    "answers": [
+      {
+        "text": "korzenie przednie i tylne nerwów rdzeniowych",
+        "correct": false
+      },
+      { "text": "gałęzie przednie nerwów rdzeniowych", "correct": false },
+      { "text": "gałęzie tylne nerwów rdzeniowych", "correct": false },
+      { "text": "wszystkie odpowiedzi błędne", "correct": false },
+      { "text": "tylko odpowiedź b i c prawidłowa", "correct": true }
+    ]
+  },
+  {
+    "question": "Skrzyżowanie piramid:",
+    "answers": [
+      {
+        "text": "położone jest na granicy mostu i śródmózgowia",
+        "correct": false
+      },
+      {
+        "text": "jest miejscem na granicy rdzenia przedłużonego i kręgowego",
+        "correct": true
+      },
+      {
+        "text": "leży na powierzchni grzbietowej pnia mózgu",
+        "correct": false
+      },
+      { "text": "jest częścią drogi czuciowej", "correct": false },
+      { "text": "wszystkie odp. prawidłowe", "correct": false }
+    ]
+  },
+  {
+    "question": "Do podwzgórza nie zaliczamy:",
+    "answers": [
+      { "text": "skrzyżowania wzrokowego", "correct": false },
+      { "text": "ciała kolankowego bocznego", "correct": true },
+      { "text": "ci��ł suteczkowatych", "correct": false },
+      { "text": "przysadki", "correct": false },
+      { "text": "guza popielatego", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "ramieniem dośrodkowym odruchu źrenicznego jest nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu błędnego może spowodować chrypkę i zaburzenia połykania",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu dodatkowego może powodować opadanie ramienia",
+        "correct": false
+      },
+      {
+        "text": "uszkodzenie nerwu językowo-gardłowego może powodować zanik i zbaczanie wysuwanego języka",
+        "correct": true
+      },
+      {
+        "text": "ramieniem odśrodkowym odruchu źrenicznego jest nerw okoruchowy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Obwodowe porażenie nerwu twarzowego może prowadzić do wystąpienia wszystkich poniższych objawów z wyjątkiem:",
+    "answers": [
+      { "text": "braku czucia 2/3 przednich języka", "correct": true },
+      { "text": "brak wydzielania gruczołu łzowego", "correct": false },
+      {
+        "text": "brak wydzielania ślinianek: podżuchwowej i podjęzykowej",
+        "correct": false
+      },
+      { "text": "brak odruchu źrenicznego", "correct": false },
+      {
+        "text": "porażenie mięśni mimicznych i połowy twarzy",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że w ośrodkowym porażeniu nerwu twarzowego:",
+    "answers": [
+      {
+        "text": "występuje porażenie mięśni mimicznych okolicy czoła",
+        "correct": true
+      },
+      {
+        "text": "występuje porażenie mięśni mimicznych okolicy oczodołu",
+        "correct": false
+      },
+      {
+        "text": "występuje pogłębienie fałdu nosowego- wargowego",
+        "correct": false
+      },
+      { "text": "występuje obniżenie kącika ust", "correct": false },
+      { "text": "uszkodzenie dotyczy DNM", "correct": false }
+    ]
+  },
+  {
+    "question": "W porażeniu którego nerwu występuje tzw. ręka opadająca ?",
+    "answers": [
+      { "text": "n. łokciowego", "correct": false },
+      { "text": "n. pośrodkowego", "correct": false },
+      { "text": "n. promieniowego", "correct": true },
+      { "text": "n. pachowego", "correct": false },
+      { "text": "n. skórnego przyśrodkowego przedramienia", "correct": false }
+    ]
+  },
+  {
+    "question": "Nerw trójdzielny ma charakter:",
+    "answers": [
+      { "text": "wyłącznie ruchowy", "correct": false },
+      { "text": "wyłącznie czuciowy", "correct": false },
+      { "text": "mieszany: ruchowy i czuciowy", "correct": true },
+      { "text": "mieszany: ruchowy i przywspółczulny", "correct": false },
+      {
+        "text": "mieszany: ruchowy, czuciowy i przywspółczulny",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do objawów zespołu GNM należą poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "niedowładu/porażenia", "correct": false },
+      { "text": "odruchu Babińskiego", "correct": false },
+      { "text": "obniżonego napięcia mięśniowego", "correct": true },
+      { "text": "wygórowanych odruchów głębokich", "correct": false },
+      { "text": "spastycznego napięcia mięśni", "correct": false }
+    ]
+  },
+  {
+    "question": "Które z poniższych nerwów czaszkowych posiadają włókna przywspółczulne?",
+    "answers": [
+      { "text": "III, IV, VI", "correct": false },
+      { "text": "III,VII,IX,X", "correct": true },
+      { "text": "VII,IX,XI,XII", "correct": false },
+      { "text": "I,II,VIII", "correct": false },
+      { "text": "V,VII,IX,X", "correct": false }
+    ]
+  },
+  {
+    "question": "W moście zlokalizowane są jądra następujących nerwów czaszkowych z wyjątkiem:",
+    "answers": [
+      { "text": "n. IV", "correct": true },
+      { "text": "n. V", "correct": false },
+      { "text": "n. VI", "correct": false },
+      { "text": "n. VII", "correct": false },
+      { "text": "n. VIII", "correct": false }
+    ]
+  },
+  {
+    "question": "Dwunasty nerw czaszkowy:",
+    "answers": [
+      { "text": "nerw językowy", "correct": false },
+      { "text": "nerw podjęzykowy", "correct": true },
+      { "text": "nerw językowo-gardłowy", "correct": false },
+      { "text": "nerw dodatkowy", "correct": false },
+      { "text": "nerw błędny", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia dotyczące płynu mózgowo-rdzeniowego są prawdziwe z wyjątkiem:",
+    "answers": [
+      { "text": "zabezpiecza mózgowie przed urazami", "correct": false },
+      {
+        "text": "wytwarzany jest przez sploty naczyniówkowe komór mózgu",
+        "correct": false
+      },
+      {
+        "text": "jest resorbowany (ok. 70%) do naczyń żylnych opony miękkiej",
+        "correct": false
+      },
+      { "text": "dzienna produkcja: 55 ml", "correct": true },
+      { "text": "z komory trzeciej do czwartej", "correct": false }
+    ]
+  },
+  {
+    "question": "Do gałęzi nerwu rdzeniowego nie zaliczamy:",
+    "answers": [
+      { "text": "gałęzi przedniej", "correct": false },
+      { "text": "gałęzi tylnej", "correct": false },
+      { "text": "gałęzi łącznej białej", "correct": false },
+      { "text": "gałęzi rdzeniowej", "correct": true },
+      { "text": "wszystkie odpowiedzi błędne", "correct": false }
+    ]
+  },
+  {
+    "question": "Wodociąg mózgu:",
+    "answers": [
+      { "text": "łączy komory boczne i komorę IV", "correct": false },
+      { "text": "łączy komorę boczną i komorę III", "correct": true },
+      { "text": "leży w międzymózgowiu", "correct": false },
+      {
+        "text": "ma bezpośrednią komunikację z przestrzenią podpajęczynówkową",
+        "correct": false
+      },
+      { "text": "leży w śródmózgowiu", "correct": false }
+    ]
+  },
+  {
+    "question": "Przestrzeń podpajęczynówkowa:",
+    "answers": [
+      { "text": "jest przestrzenią potencjalną", "correct": false },
+      {
+        "text": "od wewnątrz ograniczona jest przez oponę pajęczą",
+        "correct": true
+      },
+      {
+        "text": "ograniczoną jest przez blaszkę wewnętrzną opony twardej",
+        "correct": false
+      },
+      {
+        "text": "istnieje tylko wtedy, kiedy zawiera krwiak podpajęczynówkowy",
+        "correct": false
+      },
+      {
+        "text": "jej zewnętrzne ograniczenie stanowi opona pajęcza",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Drogi piramidowe:",
+    "answers": [
+      {
+        "text": "krzyżują się wyłącznie w skrzyżowaniu piramid",
+        "correct": false
+      },
+      { "text": "są drogami zstępującymi", "correct": true },
+      {
+        "text": "rozpoczynają się w korze płata ciemieniowego",
+        "correct": false
+      },
+      {
+        "text": "przewodzą impulsy z receptorów leżących w ścięgnach mięśni",
+        "correct": false
+      },
+      { "text": "przechodzą przez wzgórze", "correct": false }
+    ]
+  },
+  {
+    "question": "Ogon koński tworzą:",
+    "answers": [
+      {
+        "text": "korzenie przednie i tylne nerwów rdzeniowych",
+        "correct": false
+      },
+      { "text": "gałęzie przednie nerwów rdzeniowych", "correct": false },
+      { "text": "gałęzie tylne nerwów rdzeniowych", "correct": false },
+      { "text": "wszystkie odpowiedzi błędne", "correct": false },
+      { "text": "tylko odpowiedź b i c prawidłowa", "correct": true }
+    ]
+  },
+  {
+    "question": "Skrzyżowanie piramid:",
+    "answers": [
+      {
+        "text": "położone jest na granicy mostu i śródmózgowia",
+        "correct": false
+      },
+      {
+        "text": "jest miejscem na granicy rdzenia przedłużonego i kręgowego",
+        "correct": true
+      },
+      {
+        "text": "leży na powierzchni grzbietowej pnia mózgu",
+        "correct": false
+      },
+      { "text": "jest częścią drogi czuciowej", "correct": false },
+      { "text": "wszystkie odp. prawidłowe", "correct": false }
+    ]
+  },
+  {
+    "question": "Do podwzgórza nie zaliczamy:",
+    "answers": [
+      { "text": "skrzyżowania wzrokowego", "correct": false },
+      { "text": "ciała kolankowego bocznego", "correct": true },
+      { "text": "ci��ł suteczkowatych", "correct": false },
+      { "text": "przysadki", "correct": false },
+      { "text": "guza popielatego", "correct": false }
+    ]
+  },
+  {
+    "question": "Skrzyżowanie piramid:",
+    "answers": [
+      {
+        "text": "położone jest na granicy mostu i śródmózgowia",
+        "correct": false
+      },
+      {
+        "text": "jest miejscem na granicy rdzenia przedłużonego i kręgowego",
+        "correct": true
+      },
+      {
+        "text": "leży na powierzchni grzbietowej pnia mózgu",
+        "correct": false
+      },
+      { "text": "jest częścią drogi czuciowej", "correct": false },
+      { "text": "wszystkie odp. prawidłowe", "correct": false }
+    ]
+  },
+  {
+    "question": "Do podwzgórza nie zaliczamy:",
+    "answers": [
+      { "text": "skrzyżowania wzrokowego", "correct": false },
+      { "text": "ciała kolankowego bocznego", "correct": true },
+      { "text": "ci��ł suteczkowatych", "correct": false },
+      { "text": "przysadki", "correct": false },
+      { "text": "guza popielatego", "correct": false }
+    ]
+  },
+  {
+    "question": "Do czucia głębokiego zaliczamy czucie:",
+    "answers": [
+      { "text": "wibracji", "correct": true },
+      { "text": "dotyku", "correct": false },
+      { "text": "bólu", "correct": false },
+      { "text": "ciepła", "correct": false },
+      { "text": "zimna", "correct": false }
+    ]
+  },
+  {
+    "question": "Do nadwzgórza zaliczamy:",
+    "answers": [
+      { "text": "ciało kolankowate boczne", "correct": false },
+      { "text": "ciało kolankowate przyśrodkowe", "correct": false },
+      { "text": "szyszynkę", "correct": false },
+      { "text": "odp. a i b prawidłowe", "correct": false },
+      { "text": "odp. a, b i c prawidłowe", "correct": true }
+    ]
+  },
+  {
+    "question": "Uszkodzenie nerwu okoruchowego (III) nie powoduje:",
+    "answers": [
+      { "text": "podwójnego widzenia", "correct": false },
+      { "text": "poszerzenia źrenicy", "correct": false },
+      { "text": "zwężenia źrenicy", "correct": true },
+      { "text": "opadania powieki górnej", "correct": false },
+      {
+        "text": "zaburzenia czynności mięśnia prostego oka górnego",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Odgałęzieniem tętnicy szyjnej wewnętrznej nie jest:",
+    "answers": [
+      { "text": "tętnica łącząca przednia", "correct": false },
+      { "text": "tętnica łącząca tylna", "correct": false },
+      { "text": "tętnica naczyniówkowa przednia", "correct": false },
+      { "text": "tętnica mózgu przednia", "correct": false },
+      { "text": "tętnica mózgu środkowa", "correct": true }
+    ]
+  },
+  {
+    "question": "Do mózgowia nie zaliczamy:",
+    "answers": [
+      { "text": "pnia mózgu", "correct": false },
+      { "text": "móżdżku", "correct": false },
+      { "text": "rdzenia przedłużonego", "correct": false },
+      { "text": "rdzenia kręgowego", "correct": true },
+      { "text": "śródmózgowia", "correct": false }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      { "text": "socze��ka oka jest dwuwypukła", "correct": true },
+      {
+        "text": "gruczoł łzowy leży w przyśrodkowym kącie oka",
+        "correct": false
+      },
+      { "text": "socze��ka leży do przodu od tęczówki", "correct": false },
+      {
+        "text": "przewód nosowo-łzowy uchodzi do przewodu nosowego górnego",
+        "correct": false
+      },
+      {
+        "text": "ciało szkliste leży w komorze oka przedniej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawda jest, że:",
+    "answers": [
+      { "text": "komora poboczna jest komorą nieparzystą", "correct": false },
+      {
+        "text": "wodociąg mózgu łączy komorę III z komorą IV",
+        "correct": true
+      },
+      { "text": "komora IV położona jest powyżej móżdżku", "correct": false },
+      { "text": "komora III leży w kresomózgowiu", "correct": false },
+      {
+        "text": "komora boczna jest położona w miedzy mózgowiu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "text": "mięsień zwieracz źrenicy unerwiony jest wyłącznie przez włókna parasynaptyczne",
+        "correct": true
+      },
+      {
+        "text": "mięsień rozwieracz źrenicy jest unerwiony wyłącznie przez włókna parasynaptyczne",
+        "correct": false
+      },
+      {
+        "text": "mięsień okrężny oka unerwiony jest przez nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "mięśnie wew. gałki ocznej unerwione są przez nerw wzrokowy",
+        "correct": false
+      },
+      {
+        "text": "nerw oczny prowadzi bodźce z czopków i pręcików siatkówki oka",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "text": "korowy ośrodek ruchowy mowy leży w płacie ciemieniowym",
+        "correct": false
+      },
+      {
+        "text": "korowy ośrodek smaku leży w płacie czołowym",
+        "correct": false
+      },
+      {
+        "text": "korowy ośrodek wzroku leży w płacie potylicznym",
+        "correct": true
+      },
+      {
+        "text": "korowy ośrodek słuchu leży w płacie ciemieniowym",
+        "correct": false
+      },
+      {
+        "text": "korowy ośrodek czucia leży w płacie potylicznym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "text": "droga równowagi kończy się w płacie czołowym",
+        "correct": false
+      },
+      {
+        "text": "droga słuchowa rozpoczyna się w uchu środkowym",
+        "correct": false
+      },
+      {
+        "text": "droga równowagi biegnie do płata potylicznego",
+        "correct": false
+      },
+      {
+        "text": "droga słuchowa kończy się w płacie skroniowym",
+        "correct": true
+      },
+      {
+        "text": "droga słuchowa i równowagi rozpoczyna się w uchu zewnętrznym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      {
+        "text": "ciało kolankowate boczne jest podkorowym ośrodkiem wzroku",
+        "correct": true
+      },
+      {
+        "text": "wszystkie włókna nerwu wzrokowego krzyżują się w skrzyżowaniu wzrokowym",
+        "correct": false
+      },
+      {
+        "text": "pasmo wzrokowe biegnie od skrzyżowania wzrokowego do zawzgórza",
+        "correct": false
+      },
+      {
+        "text": "nerw wzrokowy biegnie do ciała kolankowatego bocznego",
+        "correct": false
+      },
+      {
+        "text": "korowy ośrodek wzroku leży w płacie skroniowym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Prawdą jest, że:",
+    "answers": [
+      { "text": "móżdżek dawny reguluje napięcie mięśniowe", "correct": true },
+      { "text": "jądro czopowate i kulkowate leżą w moście", "correct": false },
+      { "text": "móżdżek nowy reguluje napięcie mięśniowe", "correct": false },
+      { "text": "jądro zębate jest jądrem móżdżku dawnego", "correct": false },
+      {
+        "text": "płat grudkowo-kłaczkowy związany jest czynnościowo z jądrem zębatym",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "W skład błony naczyniowej gałki ocznej wchodzą:",
+    "answers": [
+      { "text": "rogówka, twardówka", "correct": false },
+      { "text": "rogówka, twardówka, siatkówka", "correct": false },
+      { "text": "tęczówka, soczewka", "correct": false },
+      { "text": "tęczówka, ciało rzęskowe", "correct": true },
+      { "text": "rogówka, naczyniówka, siatkówka", "correct": false }
+    ]
+  },
+  {
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "text": "w skrzyżowaniu wzrokowym krzyżują się wszystkie włókna nerwu wzrokowego",
+        "correct": true
+      },
+      { "text": "szyszynka zaliczana jest do nadwzgórza", "correct": false },
+      {
+        "text": "skrzyżowanie wzrokowe jest częścią podwzgórza",
+        "correct": false
+      },
+      {
+        "text": "konar środkowy móżdżku jest częścią podwzgórza",
+        "correct": false
+      },
+      {
+        "text": "tętnica podstawna powstaje z połączenia 2 tętnic kręgowych",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      { "text": "móżdżek leży w dole tylnym czaszki", "correct": false },
+      { "text": "część środkowa móżdżku to robak", "correct": false },
+      { "text": "móżdżek posiada dwie półkule", "correct": false },
+      {
+        "text": "istota szara móżdżku to kora i jądra móżdżku",
+        "correct": false
+      },
+      { "text": "jądro wierzchu jest jedynym jądrem móżdżku", "correct": true }
+    ]
+  },
+  {
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      { "text": "rogówka jest dobrze unaczyniona", "correct": true },
+      { "text": "rogówka jest pokryta spojówką", "correct": false },
+      {
+        "text": "twardówka jest częścią warstwy włóknistej oka",
+        "correct": false
+      },
+      { "text": "twardówka jest unaczyniona i unerwiona", "correct": false },
+      { "text": "twardówka jest częściowo pokryta spojówką", "correct": false }
+    ]
+  },
+  {
+    "question": "Nieprawdą jest, że:",
+    "answers": [
+      {
+        "text": "jama bębenkowa przez trąbkę słuchową komunikuje się z gardłem",
+        "correct": false
+      },
+      {
+        "text": "do błędnika błoniastego zaliczamy przewód ślimaka",
+        "correct": false
+      },
+      {
+        "text": "do błędnika kostnego zaliczamy przedsionek",
+        "correct": false
+      },
+      { "text": "przychłonka wypełnia błędnik kostny", "correct": false },
+      {
+        "text": "kosteczki słuchowe są częścią błędnika kostnego",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pierwszym odgałęzieniem łuku aorty jest:",
+    "answers": [
+      { "text": "pień ramienno-głowowy", "correct": true },
+      { "text": "tętnica podobojczykowa", "correct": false },
+      { "text": "tętnica szyjna wspólna prawa", "correct": false },
+      { "text": "tętnica szyjna wspólna lewa", "correct": false },
+      { "text": "tętnica podobojczykowa lewa", "correct": false }
+    ]
+  },
+  {
+    "question": "Wszystkie poniższe stwierdzenia są prawdziwe z wyjątkiem:",
+    "answers": [
+      {
+        "text": "żyła główna góra powstaje z połączenia 2 żył ramienno-głowowych",
+        "correct": false
+      },
+      {
+        "text": "żyła główna górna uchodzi do prawego przedsionka serca",
+        "correct": false
+      },
+      {
+        "text": "żyła główna dolna powstaje z połączenia 2 żył biodrowych wewnętrznych",
+        "correct": true
+      },
+      {
+        "text": "żyła główna dolna uchodzi do prawego przedsionka serca",
+        "correct": false
+      },
+      {
+        "text": "żyły płucne uchodzą do lewego przedsionka serca",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kolejnym odgałęzieniem od łuku aorty po pniu ramienno-głowowym jest:",
+    "answers": [
+      { "text": "tętnica szyjna wspólna lewa", "correct": true },
+      { "text": "tętnica podobojczykowa lewa", "correct": false },
+      { "text": "tętnica wspólna prawa", "correct": false },
+      { "text": "tętnica podobojczykowa prawa", "correct": false },
+      { "text": "żadne z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Wskaż zdanie fałszywe:",
+    "answers": [
+      {
+        "text": "żyła ramienno-głowowa powstaje z połączenia żyły podobojczykowej z żyłą szyjną wew",
+        "correct": false
+      },
+      {
+        "text": "prawy kąt żylny znajduje się w miejscu połączenia prawej i lewej żyły ramienno-głowowej",
+        "correct": true
+      },
+      {
+        "text": "do prawego przedsionka serca uchodzi żyła główna dolna",
+        "correct": false
+      },
+      { "text": "pień płucny wychodzi z prawej komory", "correct": false },
+      {
+        "text": "tętnica ramienna dzieli się na tętnicę promieniową i łokciową",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Żyła odpromieniowa uchodzi do żyły:",
+    "answers": [
+      { "text": "promieniowej", "correct": false },
+      { "text": "łokciowej", "correct": false },
+      { "text": "ramiennej", "correct": false },
+      { "text": "pośrodkowej", "correct": false },
+      { "text": "pachowej", "correct": true }
+    ]
+  },
+  {
+    "question": "Tętnica udowa jest przedłużeniem:",
+    "answers": [
+      {
+        "text": "aorty brzusznej tętnicy biodrowej wspólnej",
+        "correct": false
+      },
+      { "text": "tętnicy biodrowej zewnętrznej", "correct": true },
+      { "text": "tętnicy biodrowej wewnętrznej", "correct": false },
+      { "text": "tętnicy podkolanowej", "correct": false }
+    ]
+  },
+  {
+    "question": "Końcowym rozgałęzieniem aorty zstępującej są:",
+    "answers": [
+      { "text": "tętnice udowe", "correct": false },
+      { "text": "tętnice biodrowe zewnętrzne", "correct": false },
+      { "text": "tętnice biodrowe wewnętrzne", "correct": false },
+      { "text": "tętnice biodrowe wspólne", "correct": true },
+      { "text": "tętnice sromowe wewnętrzne", "correct": false }
+    ]
+  },
+  {
+    "question": "Żyła główna górna powstaje z połączenia dwóch żył:",
+    "answers": [
+      { "text": "podobojczykowych", "correct": false },
+      { "text": "szyjnych wewnętrznych", "correct": false },
+      { "text": "szyjnych zewnętrznych", "correct": false },
+      { "text": "ramienno-głowowych", "correct": true },
+      { "text": "szyjnych wspólnych", "correct": false }
+    ]
+  },
+  {
+    "question": "Żyła szyjna wewnętrzna jest przedłużeniem:",
+    "answers": [
+      { "text": "zatoki potylicznej", "correct": false },
+      { "text": "zatoki esowatej", "correct": true },
+      { "text": "zatoki poprzecznej", "correct": false },
+      { "text": "żyły ramienno-głowowej", "correct": false },
+      { "text": "żyły głównej górnej", "correct": false }
+    ]
+  },
+  {
+    "question": "Węzeł przedsionkowo-komorowy położony jest:",
+    "answers": [
+      {
+        "text": "pod wsierdziem w tylno-dolnej części międzyprzedsionkowej od strony przedsionka lewego",
+        "correct": false
+      },
+      {
+        "text": "pod wsierdziem w tylno-dolnej części międzyprzedsionkowej od strony przedsionka prawego",
+        "correct": true
+      },
+      {
+        "text": "pod wsierdziem w tylno-dolnej części międzykomorowej od strony komory prawej",
+        "correct": false
+      },
+      {
+        "text": "pod nasierdziem, w tylno-dolnej części międzyprzedsionkowej od strony przedsionka prawego",
+        "correct": false
+      },
+      {
+        "text": "pod wsierdziem w tylno-dolnej części międzykomorowej od strony komory lewej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Wir serca:",
+    "answers": [
+      {
+        "text": "miejsce przejścia warstwy skośnej w okrężną znajdujące się na koniuszku serca należącym do komory lewej",
+        "correct": true
+      },
+      {
+        "text": "miejsce przejścia warstwy skośnej w podłużną znajdującą się na koniuszku serca należącym do komory lewej",
+        "correct": false
+      },
+      {
+        "text": "miejsce przejścia warstwy okrężnej w podłużną znajdujące się na koniuszku serca należącym do komory lewej",
+        "correct": false
+      },
+      {
+        "text": "warstwa mięśniówki znajdująca się w miejscu połączenia przedsionków z komorami",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Tętnice wieńcowe pochodzą z:",
+    "answers": [
+      { "text": "pnia płucnego", "correct": false },
+      { "text": "aorty zstępującej", "correct": false },
+      { "text": "łuku aorty", "correct": false },
+      { "text": "aorty wstępującej", "correct": true },
+      { "text": "tętnicy podobojczykowej", "correct": false }
+    ]
+  },
+  {
+    "question": "Do prawego przedsionka serca nie uchodzi:",
+    "answers": [
+      { "text": "żyła główna górna", "correct": false },
+      { "text": "żyła główna dolna", "correct": false },
+      { "text": "zatoka wieńcowa", "correct": false },
+      { "text": "żyły serca najmniejsze", "correct": false },
+      { "text": "żyły płucne", "correct": true }
+    ]
+  },
+  {
+    "question": "Od tętnicy szyjnej wewnętrznej odchodzą wszystkie poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "tętnicy mózgu przedniej", "correct": false },
+      { "text": "tętnicy mózgu środkowej", "correct": true },
+      { "text": "tętnicy mózgu tylnej", "correct": false },
+      { "text": "tętnicy łączącej tylnej", "correct": false },
+      { "text": "tętnicy naczyniówkowej przedniej", "correct": false }
+    ]
+  },
+  {
+    "question": "Gałęzią łuku aorty nie jest:",
+    "answers": [
+      { "text": "tętnica szyjna wspólna lewa", "correct": false },
+      { "text": "tętnica szyjna wspólna prawa", "correct": true },
+      { "text": "tętnica podobojczykowa lewa", "correct": false },
+      { "text": "tętnice oskrzelowe lewe", "correct": false },
+      { "text": "pień ramienno-głowowy", "correct": false }
+    ]
+  },
+  {
+    "question": "Do płuca wchodzą wszystkie poniższe z wyjątkiem:",
+    "answers": [
+      { "text": "żyły płucnej", "correct": false },
+      { "text": "oskrzela głównego", "correct": false },
+      { "text": "tętnicy oskrzelowej", "correct": false },
+      { "text": "tętnicy płucnej", "correct": false },
+      { "text": "splotu płucnego", "correct": true }
+    ]
+  },
+  {
+    "question": "Wskaż zdanie nieprawdziwe:",
+    "answers": [
+      {
+        "text": "granicę górnych i dolnych dróg oddechowych stanowi szpara głośni",
+        "correct": false
+      },
+      {
+        "text": "unaczynienie czynnościowe płuc pochodzi z rozgałęzień tętnic oskrzelowych",
+        "correct": false
+      },
+      {
+        "text": "nieparzyste chrząstki krtani to: pierścieniowata, tarczowata, nagłośniowa",
+        "correct": true
+      },
+      {
+        "text": "w rzucie na kręgosłup krtań sięga od górnego brzegu trzonu C4 do dolnego trzonu kręgu C6",
+        "correct": false
+      },
+      {
+        "text": "całkowita pojemność zatok obocznych wynosi 75-100cm3",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Naczynia limfatyczne włosowate występują w:",
+    "answers": [
+      { "text": "drogach oddechowych", "correct": true },
+      { "text": "tkance chrzęstnej", "correct": false },
+      { "text": "oku", "correct": false },
+      { "text": "błędniku", "correct": false },
+      { "text": "łożysku", "correct": false }
+    ]
+  },
+  {
+    "question": "Na wysokości Th12 przez przeponę przechodzi:",
+    "answers": [
+      { "text": "przełyk", "correct": false },
+      { "text": "żyła głowa dolna", "correct": false },
+      { "text": "nerwy błędne", "correct": false },
+      { "text": "żyły nieparzyste", "correct": false },
+      { "text": "aorta zstępująca", "correct": true }
+    ]
+  },
+  {
+    "question": "Do tworów wchodzących do płuca nie należy:",
+    "answers": [
+      { "text": "tętnica płucna", "correct": false },
+      { "text": "tętnice oskrzelowe", "correct": false },
+      { "text": "oskrzele główne", "correct": false },
+      { "text": "włókna nerwowe", "correct": false },
+      { "text": "naczynia limfatyczne", "correct": true }
+    ]
+  },
+  {
+    "question": "Wskaż zdanie prawdziwe:",
+    "answers": [
+      {
+        "text": "w części nosowej gardła znajduje się ujście trąbek słuchowych",
+        "correct": true
+      },
+      {
+        "text": "gardło sięga od podstawy czaszki do wysokości C4",
+        "correct": false
+      },
+      {
+        "text": "piętro ośrodkowe krtani to inaczej jama podgłośniowa",
+        "correct": false
+      },
+      {
+        "text": "tchawica dzieli się na 2 oskrzela główne na wysokości Th6",
+        "correct": false
+      },
+      {
+        "text": "kolejnym odcinkiem po oskrzelu głównym jest oskrzele segmentowe",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Zatoka szczękowa uchodzi do przewodu nosowego:",
+    "answers": [
+      { "text": "dolnego", "correct": false },
+      { "text": "środkowego", "correct": true },
+      { "text": "górnego", "correct": false },
+      { "text": "najwyższego", "correct": false },
+      { "text": "wspólnego", "correct": false }
+    ]
+  },
+  {
+    "question": "Chrząstka tarczowata to:",
+    "answers": [
+      { "text": "nieparzysta chrząstka krtani", "correct": true },
+      { "text": "parzysta chrząstka krtani", "correct": false },
+      {
+        "text": "chrząstka tchawicy znajdująca się w miejscu jej podziału",
+        "correct": false
+      },
+      {
+        "text": "wolna chrząstka znajdująca się w mięśniach przedniej ściany szyi",
+        "correct": false
+      },
+      { "text": "nie ma takiej struktury", "correct": false }
+    ]
+  },
+  {
+    "question": "Krtań położona jest:",
+    "answers": [
+      { "text": "poniżej języka", "correct": true },
+      { "text": "poniżej tchawicy", "correct": false },
+      { "text": "od tyłu od gardła", "correct": false },
+      { "text": "od tyłu od przełyku", "correct": false },
+      { "text": "na przedniej powierzchni kręgosłupa", "correct": false }
+    ]
+  },
+  {
+    "question": "Do przedsionka jamy ustnej uchodzi:",
+    "answers": [
+      { "text": "ślinianka przyuszna", "correct": false },
+      { "text": "ślinianka podżuchwowa", "correct": false },
+      { "text": "ślinianka podjęzykowa większa", "correct": false },
+      { "text": "ślinianki podjęzykowe mniejsze", "correct": false },
+      { "text": "wszystkie prawidłowe", "correct": true }
+    ]
+  },
+  {
+    "question": "Do głównych mięśni wdechowych zaliczamy:",
+    "answers": [
+      { "text": "przeponę", "correct": true },
+      {
+        "text": "przeponę i mięśnie międzyżebrowe wewnętrzne",
+        "correct": false
+      },
+      {
+        "text": "przeponę i mięśnie międzyżebrowe zewnętrzne",
+        "correct": false
+      },
+      { "text": "mięśnie piersiowe większe", "correct": false },
+      { "text": "mięśnie tłoczni brzusznej", "correct": false }
+    ]
+  },
+  {
+    "question": "Do głównych mięśni wdechowych zaliczamy:",
+    "answers": [
+      { "text": "przeponę", "correct": true },
+      {
+        "text": "przeponę i mięśnie międzyżebrowe wewnętrzne",
+        "correct": false
+      },
+      {
+        "text": "przeponę i mięśnie międzyżebrowe zewnętrzne",
+        "correct": false
+      },
+      { "text": "mięśnie piersiowe większe", "correct": false },
+      { "text": "mięśnie tłoczni brzusznej", "correct": false }
+    ]
+  },
+  {
+    "question": "Ruch 'ramiennej pompy studziennej' powoduje zwiększenie strzałkowego wymiaru klatki piersiowej i dotyczy żeber:",
+    "answers": [
+      { "text": "I-II", "correct": true },
+      { "text": "I-VI", "correct": false },
+      { "text": "VII-XII", "correct": false },
+      { "text": "VII-X", "correct": false },
+      { "text": "II-V", "correct": false }
+    ]
+  },
+  {
+    "question": "Największym zachyłkiem jamy opłucnej jest zachyłek:",
+    "answers": [
+      { "text": "żebrowo-przeponowy", "correct": true },
+      { "text": "przeponowo- śródpiersiowy", "correct": false },
+      { "text": "żebrowo- śródpiersiowy przedni", "correct": false },
+      { "text": "żebrowo-środpiersiowy tylny", "correct": false },
+      { "text": "żaden z powyższych", "correct": false }
+    ]
+  },
+  {
+    "question": "Zachyłki jamy opłucnowej to:",
+    "answers": [
+      { "text": "rezerwowe przestrzenie wydechowe", "correct": false },
+      { "text": "rezerwowe przestrzenie wdechowe", "correct": false },
+      {
+        "text": "w zależności od różnicy ciśnienia są rezerwowymi przestrzeniami wdechowymi lub wydechowymi",
+        "correct": true
+      },
+      { "text": "nie odgrywają żadnej roli w oddychaniu", "correct": false },
+      {
+        "text": "istnieją tylko u osób wyczynowo uprawiających sport",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Oskrzeliki oddechowe, przewodziki pęcherzykowe i pęcherzyki płucne:",
+    "answers": [
+      { "text": "to składniki drzewa oddechowego", "correct": false },
+      { "text": "to składniki drzewa oskrzelowego", "correct": false },
+      {
+        "text": "występują na całej długości drzewa oskrzelowego",
+        "correct": false
+      },
+      { "text": "są odgałęzieniami tchawicy", "correct": false },
+      { "text": "żadna z odp. nie jest prawidłowa", "correct": true }
+    ]
+  },
+  {
+    "question": "Unaczynienie odżywcze płuc pochodzi od:",
+    "answers": [
+      { "text": "tętnic płucnych", "correct": false },
+      { "text": "tętnic oskrzelowych", "correct": true },
+      { "text": "żył oskrzelowych", "correct": false },
+      { "text": "żył płucnych", "correct": false },
+      { "text": "aorty", "correct": false }
+    ]
+  },
+  {
+    "question": "Oskrzele nadtętnicze jest charakterystyczne dla:",
+    "answers": [
+      { "text": "płuca lewego", "correct": true },
+      { "text": "płuca prawego", "correct": false },
+      { "text": "dochodzą do płatów górnych obu płuc", "correct": false },
+      { "text": "dochodzą do płatów dolnych obu płuc", "correct": false },
+      { "text": "dochodzi do osklepka płuca prawego", "correct": false }
+    ]
+  },
+  {
+    "question": "Chłonka z naczyń towarzyszących żyle odpiszczelowej w pierwszej kolejności odpływa do:",
+    "answers": [
+      { "text": "węzłów chłonnych pachwinowych głębokich", "correct": false },
+      { "text": "węzłów chłonnych biodrowych", "correct": false },
+      { "text": "pnia lędźwiowego", "correct": false },
+      {
+        "text": "pasma poziomego węzłów chłonnych powierzchownych",
+        "correct": false
+      },
+      {
+        "text": "pasma pionowego węzłów chłonnych powierzchownych",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Przewód piersiowy prowadzi chłonkę z wyjątkiem:",
+    "answers": [
+      { "text": "lewej połowy głowy", "correct": false },
+      { "text": "lewej połowy szyi", "correct": false },
+      { "text": "lewej połowy klatki piersiowej", "correct": false },
+      { "text": "całej nadprzeponowej części ciała", "correct": false },
+      { "text": "całej podprzeponowej części ciała", "correct": true }
+    ]
+  },
+  {
+    "question": "Chłonka z trzonu języka odpływa bezpośrednio do węzłów chłonnych:",
+    "answers": [
+      { "text": "podżuchwowych (na 90%)", "correct": true },
+      { "text": "przyżuchwowych", "correct": false },
+      { "text": "podbródkowych", "correct": false },
+      { "text": "zagardłowych", "correct": false },
+      { "text": "karkowych", "correct": false }
+    ]
+  },
+  {
+    "question": "Naczynie limfatyczne prowadzące chłonkę z całej podprzeponowej części ciała oraz połowy lewej nadprzeponowej części ciała to:",
+    "answers": [
+      { "text": "przewód piersiowy", "correct": true },
+      { "text": "przewód chłonny lewy", "correct": false },
+      { "text": "pień chłonny lewy", "correct": false },
+      {
+        "text": "przewód śródpiersiowo-oskrzelowy lewy i pień szyjny lewy",
+        "correct": false
+      },
+      { "text": "pień piersiowy", "correct": false }
+    ]
+  },
+  {
+    "question": "Czaszka łódkowata powstaje w wyniku przedwczesnego skostnienia szwu:",
+    "answers": [
+      { "text": "węgłowego", "correct": false },
+      { "text": "czołowego", "correct": false },
+      { "text": "wieńcowego", "correct": false },
+      { "text": "strzałkowego", "correct": true },
+      { "text": "klinowo-ciemieniowego", "correct": false }
+    ]
+  },
+  {
+    "question": "Ścianę górną oczodołu tworzą następujące kości:",
+    "answers": [
+      { "text": "czołowa, jarzmowa", "correct": false },
+      { "text": "klinowa, czołowa", "correct": true },
+      { "text": "czołowa, podniebienna, klinowa", "correct": false },
+      { "text": "jarzmowa, podniebienna", "correct": false },
+      { "text": "szczękowa, klinowa", "correct": false }
+    ]
+  },
+  {
+    "question": "Wskaż zdanie fałszywe:",
+    "answers": [
+      {
+        "text": "podniebienie twarde tworzą kości podniebienne i szczękowe",
+        "correct": false
+      },
+      {
+        "text": "dół środkowy czaszki tworzy kość klinowa i kości skroniowe",
+        "correct": false
+      },
+      {
+        "text": "w dole środkowym czaszki znajdują się opuszki węchowe",
+        "correct": true
+      },
+      {
+        "text": "przez tabakierę anatomiczną przechodzi gałąź powierzchowna nerwu promieniowego",
+        "correct": false
+      },
+      {
+        "text": "żyła odpromieniowa uchodzi do żyły pachowej lub podobojczykowej",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Trąbka słuchowa łączy jamę bębenkową z:",
+    "answers": [
+      { "text": "częścią nosową gardła", "correct": true },
+      { "text": "częścią ustną gardła", "correct": false },
+      { "text": "częścią krtaniową gardła", "correct": false },
+      { "text": "krtanią", "correct": false },
+      { "text": "jamą nosową", "correct": false }
+    ]
+  },
+  {
+    "question": "Dla stawu promieniowego nadgarstkowego nie są typowe ruchy:",
+    "answers": [
+      { "text": "zgięcia grzbietowego", "correct": false },
+      { "text": "zgięcia dłoniowego", "correct": false },
+      { "text": "obwodzenia", "correct": false },
+      { "text": "przywodzenie", "correct": false },
+      { "text": "odwracania", "correct": true }
+    ]
+  }
+]
